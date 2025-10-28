@@ -1,0 +1,12 @@
+1.SIMPLE FACTORY METHOD
+->A factory class that decides which concrete classes to instatiate
+
+
+2.FACTORY METHOD
+->Defines an interface for creating objects but allws subclass to decide which class to instatiate
+
+
+
+
+3.ABSTRACT FACTORY METHOD
+->Provides an interface for creating families of related objects without specifying thier concrete classes
