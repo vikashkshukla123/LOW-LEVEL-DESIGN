@@ -1,0 +1,8 @@
+1. Create a private constructor
+2. Create a static instance (get instance) that return the same instance every time
+
+
+// real world usage
+1.logging system
+2.database connection
+3.configuration manager

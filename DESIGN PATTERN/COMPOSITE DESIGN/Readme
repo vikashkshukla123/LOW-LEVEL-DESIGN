@@ -1,0 +1,9 @@
+DEFINTION
+->Composite design pattern composes object into tree like structure representing a part-whole hierrarchy. It lets client 
+treat individual object and composition of object uniformly;
+
+REAL WORLD APPLICATION
+->1. Real time problem that can be solved using tree data structure.
+
+
+

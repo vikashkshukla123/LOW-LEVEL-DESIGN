@@ -1,0 +1,15 @@
+PRINCIPLE OF LEAST KNOWLEDGE(RULES)
+->Take an object,now from any method, in that object , principle that tells you to invoke only methods tha belong to
+1.The object itself;
+2. THe object passed in a parameter to the method;
+3. Any object that the method creates.
+4.Any object with (has a) relationship;
+
+
+STANDARD DEFINITION OF FACADE PATTERN
+Facade design provides a simplified, unified interface to a set of complex subsytems. It hides the complexity of the System
+and expose only what is neccessary
+
+
+USE CASE    
+1. Gaming Engine Loading 
