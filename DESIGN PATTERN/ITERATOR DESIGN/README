@@ -1,0 +1,2 @@
+DEFNITION
+->Iterator provides a way to access the elements of an agregate objects sequentially without exposign underlying representation
